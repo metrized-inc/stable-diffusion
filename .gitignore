@@ -1,0 +1,5 @@
+
+logs
+models/ldm/stable-diffusion-v1
+optimizedSD/__pycache__
+outputs
